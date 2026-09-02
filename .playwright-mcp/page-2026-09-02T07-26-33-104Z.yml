@@ -1,0 +1,55 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - paragraph [ref=e5]: Menu
+    - heading "Le Bistrot du Port" [level=1] [ref=e6]
+  - main [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - heading "Entrées" [level=2] [ref=e10]
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - generic [ref=e13]:
+              - paragraph [ref=e14]: Velouté de potimarron
+              - paragraph [ref=e15]: Crème de châtaigne, huile de noisette torréfiée et copeaux de comté affiné 24 mois
+            - paragraph [ref=e16]: 8,50 €
+          - listitem [ref=e17]:
+            - generic [ref=e18]:
+              - paragraph [ref=e19]: Burrata des Pouilles
+              - paragraph [ref=e20]: Tomates anciennes, basilic, huile d'olive Taggiasca
+            - paragraph [ref=e21]: 12,50 €
+          - listitem [ref=e22]:
+            - paragraph [ref=e24]: Anchoiade
+            - paragraph [ref=e25]: 7,00 €
+      - generic [ref=e26]:
+        - heading "Burgers" [level=2] [ref=e27]
+        - list [ref=e28]:
+          - listitem [ref=e29]:
+            - generic [ref=e30]:
+              - paragraph [ref=e31]: Cheeseburger
+              - paragraph [ref=e32]: Steak charolais 180g, cheddar affiné, salade, oignons confits
+            - paragraph [ref=e33]: 12,90 €
+          - listitem [ref=e34]:
+            - generic [ref=e35]:
+              - paragraph [ref=e36]: Veggie portobello
+              - paragraph [ref=e37]: Champignon portobello grillé, chèvre frais, roquette
+              - generic [ref=e38]: Indisponible
+            - paragraph [ref=e39]: 11,90 €
+          - listitem [ref=e40]:
+            - generic [ref=e41]:
+              - paragraph [ref=e42]: Le Supercalifragilisticexpialidocious
+              - paragraph [ref=e43]: Un nom volontairement interminable pour vérifier qu'aucun mot ne déborde horizontalement du gabarit mobile
+            - paragraph [ref=e44]: 16,90 €
+      - generic [ref=e45]:
+        - heading "Desserts" [level=2] [ref=e46]
+        - list [ref=e47]:
+          - listitem [ref=e48]:
+            - generic [ref=e49]:
+              - paragraph [ref=e50]: Tiramisu maison
+              - paragraph [ref=e51]: Mascarpone, café de Colombie
+            - paragraph [ref=e52]: 6,00 €
+          - listitem [ref=e53]:
+            - generic [ref=e54]:
+              - paragraph [ref=e55]: Tarte au citron meringuée
+              - generic [ref=e56]: Indisponible
+            - paragraph [ref=e57]: 7,50 €
+  - contentinfo [ref=e58]: Karta

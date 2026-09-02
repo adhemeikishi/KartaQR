@@ -1,0 +1,23 @@
+- generic [ref=f1e4]:
+  - link "Aller au contenu" [ref=f1e5] [cursor=pointer]:
+    - /url: "#main"
+  - complementary [ref=f1e6]:
+    - generic [ref=f1e7]:
+      - generic [ref=f1e12]: Karta
+      - generic [ref=f1e13]: v1
+    - navigation [ref=f1e14]:
+      - paragraph [ref=f1e15]: Pilotage
+      - link "Dashboard" [ref=f1e16] [cursor=pointer]:
+        - /url: /admin/dashboard
+      - paragraph [ref=f1e19]: Gestion
+      - link "Clients" [ref=f1e20] [cursor=pointer]:
+        - /url: /admin/restaurants
+    - button "Se déconnecter" [ref=f1e24] [cursor=pointer]
+  - generic [ref=f1e27]:
+    - banner [ref=f1e28]:
+      - navigation "Fil d'Ariane" [ref=f1e29]:
+        - generic [ref=f1e30]: Dashboard
+    - main [ref=f1e31]:
+      - generic [ref=f1e33]:
+        - heading "Dashboard" [level=1] [ref=f1e34]
+        - paragraph [ref=f1e35]: "L'état de Karta en un coup d'œil : clients, QR et activité de scans."

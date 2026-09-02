@@ -1,0 +1,19 @@
+- generic [ref=e4]:
+  - complementary [ref=e5]:
+    - generic [ref=e7]: Karta
+    - generic [ref=e13]:
+      - paragraph [ref=e14]: Restaurant-tech
+      - paragraph [ref=e15]: Moins de files.Plus de commandes.
+    - paragraph [ref=e17]: Back-office · v1
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - heading "Connexion" [level=1] [ref=e20]
+      - paragraph [ref=e21]: Accédez au back-office Karta.
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: Nom d'utilisateur
+          - textbox "Nom d'utilisateur" [ref=e25]
+        - generic [ref=e26]:
+          - generic [ref=e27]: Mot de passe
+          - textbox "Mot de passe" [ref=e28]
+        - button "Se connecter" [ref=e29] [cursor=pointer]
